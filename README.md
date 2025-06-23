@@ -28,6 +28,11 @@ The remaining states are then plotted on a map with **population labels**, makin
   <img src="/Image/Map.jpeg" alt="India State Population Map" width="600"/>
 </p>
 
+
+<p align="center">
+  <img src="Image/Map1.jpeg" alt="India State Population Map" width="600"/>
+</p>
+
 ---
 
 ## 🛠️ Requirements
